@@ -12,12 +12,13 @@
   display: flex;
   gap: 5rem;
 }
-.navlist p {
+.navlist a {
   font-family: "Axiforma Regular";
   cursor: pointer;
   transition: .8s;
+  text-decoration: none;
 }
-.navlist p:hover {
+.navlist a:hover {
   color: #fb03f5;
   transition: .8s;
 }

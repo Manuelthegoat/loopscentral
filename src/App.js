@@ -9,22 +9,13 @@ import Hero from "./Components/Hero/Hero";
 import Navbar from "./Components/Navbar/Navbar";
 import Pricing from "./Components/Pricing/Pricing";
 import SupportedDaws from "./Components/SupportedDaws/SupportedDaws";
+import Routing from "./Routes";
 
 function App() {
   return (
     <>
-      <div className="header-hero-container">
-        <Navbar />
-        <Hero />
-      </div>
-      <BreakLine />
-      <Fresh />
-      <DiscoverMore />
-      <BigLeague />
-      <SupportedDaws />
-      <BreakLine />
-      <Pricing />
-      <BecomeCreator />
+     
+     <Routing />
       <Footer />
     </>
   );

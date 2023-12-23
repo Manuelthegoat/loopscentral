@@ -1,0 +1,28 @@
+.dismaindiv{
+    display: flex;
+    gap: 5rem;
+    padding: 6rem;
+}
+.distitle {
+  font-size: 64px;
+}
+.distext {
+  font-size: 20px;
+  font-weight: normal;
+  font-family: "Axiforma Regular";
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+}
+.disbtn {
+    border-radius: 50px;
+    border: 1px solid #fff;
+    padding: 10px 32px;
+    background: none;
+    transition: 0.8s;
+    cursor: pointer;
+  }
+  .disbtn:hover {
+    color: black;
+    background-color: white;
+    transition: 0.8s;
+  }

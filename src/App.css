@@ -1,0 +1,25 @@
+* {
+  font-family: "Axiforma-ExtraBold";
+  color: white;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: black;
+  overflow-x: hidden;
+}
+.header-hero-container {
+  height: 100vh;
+  background-image: linear-gradient(
+      32deg,
+      #000 7.93%,
+      rgba(69, 7, 79, 0.16) 84.23%
+    ),
+    url("./Assets/hero-bg.png");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+}

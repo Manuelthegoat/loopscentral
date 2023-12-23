@@ -1,0 +1,35 @@
+.bigtitlediv{
+    text-align: center;
+    padding: 6rem;
+    padding-top: 0;
+}
+.bigtext{
+    font-family: "Axiforma Regular";
+}
+.bigtitle{
+    font-size: 59.73px;
+}
+.bigtitle>span{
+    color: black;
+    text-shadow: -1.5px -1.5px 0 white, 1.5px -1.5px 0 white, -1.5px 1.5px 0 white, 1.5px 1.5px 0 white;
+    text-transform: uppercase;
+}
+.bignextlefttitle{
+    color: #FB03F5;
+    font-family: "Axiforma Regular";
+    font-size: 20px;
+}
+.bignextlefttext{
+    font-family: "Axiforma Regular";
+    padding-bottom: 2rem;
+}
+.bignextdiv{
+    display: flex;
+    gap: 8rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+.bignextdiv2{
+    text-align: center;
+    padding: 5rem;
+}

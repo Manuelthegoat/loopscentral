@@ -1,0 +1,22 @@
+.hero {
+  height: 100vh; /* This makes sure the hero section takes up the full screen height */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+}
+.hero-content {
+  justify-content: left;
+  padding-top: 14rem;
+  padding-left: 6rem;
+}
+.hero-bold {
+  font-size: 80px;
+}
+.hero-normal {
+  font-size: 64px;
+  font-family: "Axiforma Regular";
+}
+.hero-small {
+  color: #fb03f5;
+  font-size: 20px;
+}

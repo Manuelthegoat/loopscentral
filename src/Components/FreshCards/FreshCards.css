@@ -1,0 +1,28 @@
+.freshcard{
+    border: 2px solid white;
+    width: 13rem;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: .5rem;
+}
+.freshcard img{
+    padding-bottom: 1rem;
+}
+.loopsandtext{
+    display: flex;
+    gap: .7rem;
+    padding-top: 1rem;
+}
+.freshcardtitle{
+    font-size: 16px;
+    font-family: 'Axiforma Regular';
+}
+.freshcardsdiv{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 3rem;
+    max-width: 1200px;  /* adjust this value based on your needs */
+    margin: 0 auto; 
+}

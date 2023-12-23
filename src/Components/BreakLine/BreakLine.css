@@ -1,0 +1,9 @@
+.breaklinediv {
+    display: flex;
+    padding-top: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+.breaklinediv img{
+    width: 90%;
+}

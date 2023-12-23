@@ -1,0 +1,17 @@
+.suppmaindiv{
+    text-align: center;
+    padding: 6rem;
+    padding-top: 0;
+    padding-bottom: 2rem;
+}
+.suppcontent{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+}
+.supptitle{
+    font-family: "Axiforma Regular";
+    font-style: 20px;
+    font-weight: 400;
+}

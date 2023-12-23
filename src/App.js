@@ -5,6 +5,7 @@ import DiscoverMore from "./Components/DiscoverMore/DiscoverMore";
 import Fresh from "./Components/Fresh/Fresh";
 import Hero from "./Components/Hero/Hero";
 import Navbar from "./Components/Navbar/Navbar";
+import SupportedDaws from "./Components/SupportedDaws/SupportedDaws";
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
       <Fresh />
       <DiscoverMore />
       <BigLeague />
+      <SupportedDaws />
+      <BreakLine />
     </>
   );
 }

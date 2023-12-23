@@ -1,0 +1,121 @@
+.pricingmaindiv {
+  padding: 5rem;
+}
+.pricingheadtitle {
+  font-size: 48px;
+}
+.pricingheadsubtext {
+  color: #bd00ff;
+  font-family: "Axiforma Regular";
+  font-weight: 400;
+  font-size: 20px;
+  padding-bottom: 1rem;
+}
+.pricingheadsubtext2 {
+  font-size: 20px;
+  font-family: "Axiforma Regular";
+  font-weight: 500;
+}
+.pricinghead {
+  text-align: center;
+}
+.priceswitch {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1rem;
+  gap: 1rem;
+}
+.switchfirsttext {
+  color: #bd00ff;
+  font-family: "Axiforma Regular";
+  font-size: 16px;
+}
+.switchsecondtext {
+  font-family: "Axiforma Regular";
+  font-size: 16px;
+}
+.tt1tt {
+  color: #06fff0;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: "Axiforma Regular";
+}
+.tt2tt {
+  color: #a50dbd;
+  font-size: 96px;
+  font-weight: 700;
+}
+.tt3tt {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Axiforma Regular";
+}
+.pt1pt {
+  font-size: 18px;
+  color: #06fff0;
+  font-weight: 400;
+  font-family: "Axiforma Regular";
+}
+.price1text3 > p {
+  font-size: 32px;
+  font-weight: 700;
+  font-family: "Axiforma Regular";
+}
+.price1 {
+  border: 1px solid #fb03f5;
+  width: 14rem;
+  padding: 3rem;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+.ttp1ttp{
+    color: #1DCD00;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Axiforma Regular";
+}
+.pricepro{
+    color: #FB03F5;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Axiforma Regular";
+}
+.price50{
+    color: #06FFF0;
+    font-size: 96px;
+    font-weight: 700;
+}
+.tt31tt{
+    color: #06FFF0;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Axiforma Regular";
+}
+.price2{
+    border: 3px solid #06FFF0;
+    width: 14rem;
+    padding: 3rem;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    background-color: #45074F;
+}
+.pricingbody{
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    padding-top: 3rem;
+}
+.tryfree{
+    text-align: center;
+}
+.tryfree>a{
+    text-decoration: underline;
+    font-family: "Axiforma Regular";
+    font-size: 18px;
+    font-weight: 400;
+}

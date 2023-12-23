@@ -5,6 +5,7 @@ import DiscoverMore from "./Components/DiscoverMore/DiscoverMore";
 import Fresh from "./Components/Fresh/Fresh";
 import Hero from "./Components/Hero/Hero";
 import Navbar from "./Components/Navbar/Navbar";
+import Pricing from "./Components/Pricing/Pricing";
 import SupportedDaws from "./Components/SupportedDaws/SupportedDaws";
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <BigLeague />
       <SupportedDaws />
       <BreakLine />
+      <Pricing />
     </>
   );
 }

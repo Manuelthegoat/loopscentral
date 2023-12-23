@@ -1,0 +1,88 @@
+.footerdiv {
+  display: flex;
+  gap: 5rem;
+  padding-top: 2rem;
+  padding-left: 7rem;
+  padding-right: 2rem;
+  border-top: 1px solid #fb03f5;
+}
+.footerdiv::before{
+    content: "";
+    position: absolute;
+    top: -5px; /* Adjust this value to control the distance from the top border */
+    left: 0;
+    right: 0;
+    height: 5px; /* Adjust this value to control the height of the glowing effect */
+    background: linear-gradient(to right, transparent, #FB03F5, transparent);
+    z-index: -1;
+}
+.foottexttext {
+  color: #06fff0;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Axiforma Regular";
+  padding-top: 0.5rem;
+}
+.footsocials {
+  display: flex;
+  gap: 1rem;
+  padding-top: 1rem;
+}
+.footdiv1 {
+  text-align: center;
+}
+.foottitle1 {
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 0.5rem;
+}
+.footlist > p {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Axiforma Regular";
+  color: #a3a3a3;
+}
+.footlist {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+.newsletter > input {
+  border: 1px solid #ffffff;
+  background: none;
+  border-radius: 35px;
+  width: 210px;
+  height: 47px;
+  padding-left: 1.5rem;
+}
+.newsletter > button {
+  background: linear-gradient(97deg, #2603fb 15.49%, #dc06ff 109.8%);
+  border-radius: 100px;
+  width: 238px;
+  height: 47px;
+  border: none;
+}
+.newsletter {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+.finalfooter{
+    display: flex;
+    gap: 2rem;
+    padding-left: 5rem;
+    padding-top: 5rem;
+    justify-content: left;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+.finalfoot1{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Axiforma Regular";
+}
+.finalfoot2{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Axiforma Regular";
+}

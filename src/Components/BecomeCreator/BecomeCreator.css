@@ -1,0 +1,43 @@
+.become-first-text{
+    color: #FB03F5;
+    font-family: "Axiforma Regular";
+    font-size: 24px;
+    font-weight: 400;
+}
+.become-second-text{
+    font-size: 64px;
+    font-weight: 800;
+}
+.become-third-text{
+    font-family: "Axiforma Regular";
+    font-size: 20px;
+    font-weight: 300;
+}
+.becomemaindiv{
+    display: flex;
+    padding: 5rem;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.become-right>img{
+    width: 30rem;
+}
+.crtbtn {
+    border-radius: 50px;
+    border: 1px solid #fff;
+    padding: 10px 32px;
+    background: none;
+    transition: 0.8s;
+    cursor: pointer;
+  }
+  .crtbtn:hover {
+    color: black;
+    background-color: white;
+    transition: 0.8s;
+  }
+  .creatorbtndivs{
+    display: flex;
+    padding-top: 2rem;
+    gap: 2rem;
+  }

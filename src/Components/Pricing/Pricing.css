@@ -112,10 +112,12 @@
 }
 .tryfree{
     text-align: center;
+    padding-bottom: 3rem;
 }
 .tryfree>a{
     text-decoration: underline;
     font-family: "Axiforma Regular";
     font-size: 18px;
     font-weight: 400;
+    
 }

@@ -1,0 +1,33 @@
+.teamtitle>p{
+    font-size: 64px;
+    font-weight: 700;
+}
+.teamname{
+    font-size: 24px;
+    font-family: "Axiforma Regular";
+    font-weight: 700;
+}
+.teamrole{
+    color: #FB03F5;
+    padding-top: 0.5rem;
+    font-size: 16px;
+    font-family: "Axiforma Regular";
+    padding-bottom: 1rem;
+    font-weight: 400;
+}
+.teammaindiv{
+    text-align: center;
+    padding-bottom: 4rem;
+}
+.teambody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+}
+.teamsocials{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}

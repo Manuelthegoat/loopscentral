@@ -23,3 +23,16 @@ body {
   display: flex;
   flex-direction: column;
 }
+.header-hero-container2 {
+  height: 100vh;
+  background-image: linear-gradient(
+      32deg,
+      #000 7.93%,
+      rgba(69, 7, 79, 0.16) 50.23%
+    ),
+    url("./Assets/aboutbg.png");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+}

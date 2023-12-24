@@ -1,0 +1,34 @@
+.navbar2 {
+    display: flex;
+    gap: 10rem;
+    align-items: center;
+    padding-top: 1.4rem;
+    padding-bottom: .4rem;
+    justify-content: center;
+    background: rgba(171, 55, 242, 0.1);
+    backdrop-filter: blur(25px);
+  }
+  .navlist2 {
+    display: flex;
+    gap: 5rem;
+  }
+  .navlist2 a {
+    font-family: "Axiforma Regular";
+    cursor: pointer;
+    transition: .8s;
+    text-decoration: none;
+  }
+  .navlist2 a:hover {
+    color: #fb03f5;
+    transition: .8s;
+  }
+  .tab-active {
+    color: #fb03f5;
+  }
+  .navbtn2 {
+    background: linear-gradient(97deg, #45074f 15.49%, #30c18d 109.8%);
+    border-radius: 50px;
+    padding: 10px 32px;
+    border: none;
+  }
+  

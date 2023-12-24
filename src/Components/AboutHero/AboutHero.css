@@ -1,0 +1,17 @@
+.hero-content2 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 10rem;
+}
+
+.abouttitle {
+  font-size: 36px;
+  font-weight: 950;
+}
+.abouttext {
+  color: #fb03f5;
+  font-size: 16px;
+  font-weight: 900;
+  font-family: "Axiforma Regular";
+}

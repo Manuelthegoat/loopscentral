@@ -1,6 +1,8 @@
 .maindiv{
     text-align: center;
     padding: 5rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(150deg, rgba(2,0,36,0.413624824929972) 10%, rgba(29,29,31,0) 72%, rgba(6,255,240,0) 100%);
 }
 .text1{
     font-family: "Axiforma Regular";

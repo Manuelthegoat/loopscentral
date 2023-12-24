@@ -18,6 +18,8 @@
 .teammaindiv{
     text-align: center;
     padding-bottom: 4rem;
+    background: rgb(2,0,36);
+    background: linear-gradient(142deg, rgba(2,0,36,0.413624824929972) 0%, rgba(29,29,31,0) 72%, rgba(6,255,240,0.352000175070028) 99%);
 }
 .teambody{
     display: flex;
